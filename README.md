@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ictashik
 - 👀 I’m interested in Computer Science 
-- 🌱 I’m currently learning MSc Computer Science @ Pondicherry Central University
+- :) Working as Research Developer @ St. Johns Research Institute 
+- 🌱 Integrated Masters in CS,Statistics & Mathematics from Pondicherry Central University
 - 📫 How to reach me 
 
 Ashikh Ahamed
