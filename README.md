@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @ictashik
-- 👀 I’m interested in Computer Science 
-- :) Working as Lead Research Developer @ St. Johns Research Institute 
+- 👋 Hi, I’m Ashikh Ahamed
+- :) Working as Research Scientist @ St. Johns Research Institute 
 - 🌱 Integrated Masters in CS, Statistics & Mathematics from Pondicherry Central University
 - 📫 How to reach me 
 
